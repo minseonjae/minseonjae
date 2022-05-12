@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeonJae&fontColor=ffffff&fontAlign=20&fontAlignY=33&color=7ED2FF&rotate=-3)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=SeonJae&fontColor=ffffff&fontAlign=20&fontAlignY=40&color=7ED2FF&rotate=-3)
 
 ### 🖥 main 
 ![java](https://img.shields.io/badge/Java-FE5000?style=for-the-badge&logo=java&logoColor=white)
