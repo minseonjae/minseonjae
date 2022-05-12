@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeonJae&fontColor=ffffff&fontAlign=20&fontAlignY=33&color=7ED2FF&rotate=-3)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeonJae&fontColor=ffffff&fontAlign=20&fontAlignY=33&color=7ED2FF&rotate=-3)
 
 ### 🖥 main 
 ![java](https://img.shields.io/badge/Java-FE5000?style=for-the-badge&logo=java&logoColor=white)
@@ -33,9 +33,12 @@
 ##
 ### 📞 Contact
 ![discord](https://img.shields.io/badge/SeonJae%235047-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-###
+
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseonjae&count_bg=%2311D3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-##
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=7ED2FF&section=footer)
+
+
 <!--
 **minseonjae/minseonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
