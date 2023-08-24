@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=SeonJae&fontColor=ffffff&fontAlign=20&fontAlignY=40&color=7ED2FF&rotate=-3)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&fontColor=ffffff&fontAlign=20&fontAlignY=40&color=7ED2FF&rotate=-3)
 
 ### 🖥 main
 ![java](https://img.shields.io/badge/Java-FE5000?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,8 +38,6 @@
 ### 📞 Contact
 ![discord](https://img.shields.io/badge/minseonjae-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-##
-##
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseonjae&count_bg=%2311D3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=7ED2FF&section=footer)
