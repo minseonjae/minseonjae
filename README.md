@@ -4,12 +4,17 @@
 ![java](https://img.shields.io/badge/Java-FE5000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 💻 sub
+
+![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=mariadb&logoColor=white)
+
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-F43059?style=for-the-badge&logo=csswizardry&logoColor=white)
@@ -19,14 +24,15 @@
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![raspberrypi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 ![autodesk](https://img.shields.io/badge/AutoDesk-000000?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 📝 studying
 ![javascript](https://img.shields.io/badge/JavaScript-C9AE00?style=for-the-badge&logo=javascript&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/AWS-DC382D?style=for-the-badge&logo=amazonaws&logoColor=white)
