@@ -44,8 +44,4 @@
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/minseonjae)
 [![Email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:minseonjae@naver.com)
 
-|![test](https://github-readme-stats.vercel.app/api?username=minseonjae&show_icons=true&hide_rank=true&card_width=350&line_height=30&hide_border=true)| ![test2](https://github-readme-stats.vercel.app/api/top-langs/?username=minseonjae&card_width=350&layout=compact&hide_border=true) |
-| ------------- | ------------- |
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseonjae&count_bg=%2311D3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseonjae&count_bg=%2311D3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
